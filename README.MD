@@ -139,16 +139,11 @@ To contribute:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
 
 ## 🔗 Connect
 
-* GitHub Repository: [https://github.com/<your-username>/git-mastery-tutorials](https://github.com/<your-username>/git-mastery-tutorials)
-* Contact: `<your-email-or-GitHub-handle>`
+* GitHub Repository: [https://github.com/gudisa1/Git-Github-Tutorial---Grace-Academy](https://github.com/gudisa1/Git-Github-Tutorial---Grace-Academy)
+* Contact: `<gudisagebi1@gmail.com>`
 
 ---
 
